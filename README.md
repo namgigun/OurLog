@@ -29,11 +29,15 @@
 ### Infra
 `Vercel` `AWS` `NGINX` `Docker` `Terraform`
 
-### DevOps
-`Github Actions` 
+### Tool
+`Slack` `Notion`
 
-### Tools
-`Git` `Slack` `Figma` `Notion`
+### Version Control
+`Git` `GitHub`
+
+### CI/CD
+`GitHub Actions`
+
 <br/><br/>
 
 # 프로젝트 아키텍처
